@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/fermendoza18/3C-Card-Component-Frontend-Mentor)
-- Live Site URL: [Live site URL here](https://fermendoza18.github.io/3C-Card-Component-Frontend-Mentor/)
+- Solution URL: [Solution URL here](https://github.com/nimrodcode/3C-Card-Component-Frontend-Mentor)
+- Live Site URL: [Live site URL here](https://nimrodcode.github.io/3C-Card-Component-Frontend-Mentor/)
 
 ## My process
 
